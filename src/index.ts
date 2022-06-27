@@ -68,5 +68,5 @@ function writeFile(value: string) {
 
 function getToday() {   
     const today = new Date();
-    return `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDay()}`
+    return `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`
 }
