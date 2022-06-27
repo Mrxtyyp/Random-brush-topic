@@ -6,7 +6,8 @@
   "author": "xt",
   "license": "MIT",
   "scripts": {
-    "generate": "ts-node ./src/index.ts"
+    "generate": "ts-node ./src/index.ts",
+    "build": "ts-node ./src/build.ts"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
