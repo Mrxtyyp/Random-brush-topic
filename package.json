@@ -1,0 +1,17 @@
+{
+  "name": "Random-brush-topic",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "repository": "git@github.com:Mrxtyyp/Random-brush-topic.git",
+  "author": "xt",
+  "license": "MIT",
+  "scripts": {
+    "generate": "ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "fs": "^0.0.1-security",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
