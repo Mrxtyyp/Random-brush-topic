@@ -3,10 +3,14 @@
 需要对应[前端面试资源](https://github.com/BigSharkLx/front-end-interview)来食用, front-end-interview文件夹下也有对应的资料
 
 ###  第一步
-> yarn instal / npm install
+``` shell
+yarn instal | npm install
+```
 
 ###  第二步
-> yarn generate / npm run generate
+``` shell
+yarn generate | npm run generate
+```
 
 执行完命令之后会在today-study下生成今日需要学习的目录
 
@@ -20,8 +24,8 @@
 
 ### **支持自动提取标题**
 1. 第一步，将需要提取的markdown放入到front-end-interview目录下
-2. 第二步，执行yarn build / npm run build
-3. 第三步，更改setting.ts下的默认配置，默认是文件名对应每次生成的数量
+2. 第二步，执行 `yarn build` / `npm run build`
+3. 第三步，更改`setting.ts`下的默认配置，默认是文件名对应每次生成的数量
 
 
 ### 简易配置 setting.ts 下面
