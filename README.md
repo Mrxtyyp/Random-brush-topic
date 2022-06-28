@@ -12,7 +12,7 @@ yarn install | npm install
 yarn generate | npm run generate
 ```
 
-执行完命令之后会在today-study下生成今日需要学习的目录
+>执行完命令之后会在today-study下生成今日需要学习的目录
 
 
 ### 正确的打开方式
