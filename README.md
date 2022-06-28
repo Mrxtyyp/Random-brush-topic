@@ -4,7 +4,7 @@
 
 ###  第一步
 ``` shell
-yarn instal | npm install
+yarn install | npm install
 ```
 
 ###  第二步
